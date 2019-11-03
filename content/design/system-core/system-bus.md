@@ -6,7 +6,7 @@ weight: 10
 ---
 The Whizz80 System Bus connects all the system core modules together into a single bus structure.
 
-```mermaid
+{{< mermaid >}}
 graph TD;
   subgraph System Core
     SYSBUS(System Bus) -.- POWER(Power Module)
@@ -17,7 +17,7 @@ graph TD;
     IO(I/O Bridge) -.- SYSBUS
   end
   style SYSBUS fill:#f96,stroke:#333,stroke-width:4px;
-```
+{{< /mermaid >}}
 
 It consists of 40 signal lines. 16 Address lines (A0-A15), 8 Data line (D0-D7), 2 Power lines (+5v, GND) 9 control lines (/CLOCK, /RESET, /MEMREQ, /IORQ, /RD, /WR, /INT, /M1, /WAIT) and 5 optional spare lines for future growth. 
 

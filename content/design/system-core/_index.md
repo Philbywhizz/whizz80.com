@@ -6,7 +6,7 @@ weight: 20
 ---
 The System core contains the essential modules required for the normal operation of the Whiz80. Missing modules may prevent the Whizz80 computer from functioning correctly. This core connects to the submodules by a [system bus](system-bus).
 
-```mermaid
+{{< mermaid >}}
 graph TD;
   subgraph System Core
     SYSBUS(System Bus) --- POWER(Power Module)
@@ -16,7 +16,7 @@ graph TD;
     SYSBUS --- ROM(ROM Module)
     IO(IO Bridge) --- SYSBUS
   end
-```
+{{< /mermaid >}}
 
 ### System Bus
 
