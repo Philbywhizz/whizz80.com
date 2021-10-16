@@ -1,11 +1,10 @@
-+++
-title = "The Whizz80 Project"
-date = 2019-11-03T16:51:20+10:00
-weight = 10
-chapter = true
-pre = "<b>1. </b>"
-+++
-
+---
+title: "The Whizz80 Project"
+date: 2019-11-03T16:51:20+10:00
+weight: 10
+chapter: true
+pre: "<b>1. </b>"
+---
 ### Chapter 1
 
 # The Whizz80 Project

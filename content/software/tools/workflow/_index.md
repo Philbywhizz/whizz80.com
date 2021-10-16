@@ -6,9 +6,9 @@ draft: false
 ---
 This is my current development workflow that I use for general z80 development and developing any related **whizz80** system software.
 
-My development environment is setup on 2 seperate devices which are in 2 seperate locations. A Mac which is in my office, and a Raspberry Pi (running Raspbian) at my electronics workstation.  I syncronize the sources between the 2 using a self-hosted git repository (as well as to github.com when i reach a milestone).
+My development environment is setup on 2 separate devices which are in 2 separate locations. A Mac which is in my office, and a Raspberry Pi (running Raspbian) at my electronics workstation.  I synchronize the sources between the 2 using a self-hosted git repository (as well as to github.com when i reach a milestone).
 
-There are 5 major steps in my workflow. Each step is requies the previous step to be completed.
+There are 5 major steps in my workflow. Each step requires the previous step to be completed.
 
 {{< mermaid >}}
 graph LR

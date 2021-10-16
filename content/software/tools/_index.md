@@ -10,7 +10,7 @@ Here is a list of all the software tools and applications that I have used in cr
 
 - [zasm](http://k1.spdns.de/Develop/Projects/zasm/Distributions/) - zasm is a command-line assembler for the Zilog Z80 cpu. It is available as source, which should compile on many unix-style operating systems, and as pre-compiled binary. One of the reasons I prefer this assembler over something else (such as z80pack) is that it supports macros and other nice to have features.
 - [z80pack](http://www.autometer.de/unix4fun/z80pack/) - A Z80 CPU emulator that allows you to software debug your z80 applications (and even run them) on your local desktop. Invaluable for step by step debugging.
-- [vim](https://en.wikipedia.org/wiki/Vim_(text_editor)) - My favourite editor.
+- [vim](https://en.wikipedia.org/wiki/Vim_(text_editor)) - My favorite editor.
 
 ##### Electronic Schematic/PCB Tools
 - [Eagle](http://www.autodesk.com/products/eagle/overview) - Schematic/PCB Creation

@@ -1,10 +1,10 @@
-+++
-title = "System Design"
-date = 2019-11-03T16:50:49+10:00
-weight = 20
-chapter = true
-pre = "<b>2. </b>"
-+++
+---
+title: "System Design"
+date: 2019-11-03T16:50:49+10:00
+weight: 20
+chapter: true
+pre: "<b>2. </b>"
+---
 
 ### Chapter 2
 

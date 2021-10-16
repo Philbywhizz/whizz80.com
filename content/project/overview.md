@@ -11,7 +11,7 @@ The Whizz80 computer is an open-source, home brew, DIY retro computer based on t
 
 Rather than creating a hardware clone of one of these past computers, the Whizz80 computer will actually be building the physical hardware. It will be of a modular design, with much of the design borrowed from a number of different websites, books and other reference material. (References and sources will be added to the [Appendix](/appendix) at a later date).
 
-By using a modular design each module is interchangeable and upgradeable to be as flexible as possible. Making extra hardware modules easier and flexible because of this modular design. Anyone can build this computer from the components, from a professional made PCB, soldering point-to-point wiring on a protoboard, wire-wrapping, or even build it on a breadboard. I'm using all these methods!
+By using a modular design each module is interchangeable and upgradeable to be as flexible as possible. Making extra hardware modules easier and flexible because of this modular design. Anyone can build this computer from the components, from a professional made PCB, soldering point-to-point wiring on a prototype board, wire-wrapping, or even build it on a breadboard. I'm using all these methods!
 
 Building your own computer is a great way to learn how computers actually work and since studying it I have a greater appreciation and respect of the hardware of modern computers. Hopefully you will to.
 
