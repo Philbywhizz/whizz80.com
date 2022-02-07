@@ -12,4 +12,4 @@ pre: "<b>2. </b>"
 
 This chapter describes the concept of the Whizz80 computer. It is a high level document with a general description of the system as a whole as well as how each individual module works.
 
-For specific details please see either the [Hardware](/hardware) or [Software](/software) chapters.
+For specific implementation details please see the relevant sections in the [Hardware](/hardware) or [Software](/software) chapters.

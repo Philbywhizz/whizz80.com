@@ -9,8 +9,10 @@ The Whizz-80 computer project is currently under slow and steady development. Wh
 
 A few of the hardware modules have already been designed and a few of them even built but as of yet I don't have any documentation. No software has been written yet, except for a 'hello world' to test the EEPROM loading. Writing documentation is hard :)
 
+Over the next couple of weeks I intend on uploading part of the design as well as some of the hardware that has been implemented already.
+
 {{% notice info %}}
-If you wish to contribute or want to help the project in any way then please feel free to get in touch with [Phil](mailto:phil.g.howlett@gmail.com).
+If you wish to contribute or want to help the project in any way then please feel free to get in touch with [me](mailto:phil.g.howlett@gmail.com).
 {{% /notice %}}
 
 ## Project members
@@ -19,13 +21,12 @@ The Whizz80 project currently consists of 1 lonely member:
 
 | Name          | Role                      |
 |---------------|---------------------------|
-| Phil Howlett  |  Project Creator and Lead |
+| [Phil Howlett](http://www.philbywhizz.com)  |  Project Creator and Lead |
 
 ## Project Sources
 
 All of the project's source code, schematics, documentation, etc are hosted at [Github](https://github.com/philbywhizz/whizz80)
 
 {{% notice info %}}
-Feel free to 'fork' the above repositories if you want to contribute to any of the code or documentation Pull requests welcome.
+Feel free to 'fork' the above repositories if you want to contribute to any of the code or documentation. Pull requests are most welcome.
 {{% /notice %}}
-

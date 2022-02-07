@@ -9,4 +9,4 @@ pre: "<b>3. </b>"
 
 # Hardware
 
-This is a simple overview of the hardware for the Whizz80 computer.
+This chapter describes in detail the hardware and the construction for the Whizz80 computer.

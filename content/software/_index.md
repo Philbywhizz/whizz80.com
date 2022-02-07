@@ -9,5 +9,5 @@ pre: "<b>4. </b>"
 
 # Software
 
-This is a simple overview of the software for the Whizz80 computer.
+This chapter describes the software development for the Whizz80 computer.
 

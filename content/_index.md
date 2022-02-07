@@ -7,4 +7,4 @@ draft: false
 
 The Whizz80 computer project is an open-source, home brew, retro computer based on the old 8-bit Z80 CPU by Zilog from the late 1970s. The goal is to have a working stand alone computer, both hardware and software using easily available components and materials that anyone could build.
 
-This project is in it's early days, there isn't much to show as of yet.
+![front](/project/img/front.jpg "Early Whizz80 prototype")
