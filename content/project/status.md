@@ -25,7 +25,7 @@ The Whizz80 project currently consists of 1 lonely member:
 
 ## Project Sources
 
-All of the project's source code, schematics, documentation, etc are hosted at [Github](https://github.com/philbywhizz/whizz80)
+All of the project's source code, schematics, documentation, etc are hosted in a [Github](https://github.com/philbywhizz/whizz80) repository
 
 {{% notice info %}}
 Feel free to 'fork' the above repositories if you want to contribute to any of the code or documentation. Pull requests are most welcome.

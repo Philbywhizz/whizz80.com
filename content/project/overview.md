@@ -23,6 +23,6 @@ Yes, you could emulate the Z80 CPU and the Whizz80 in software on a virtual mach
 
 ## Software Overview
 
-Most (if not all) of the software for the Whizz80 computer will have to be written from scratch. This software includes a [ROM monitor](https://en.wikipedia.org/wiki/Machine_code_monitor), some form of operating system (I'm planning a [forth](https://en.wikipedia.org/wiki/Forth_(programming_language)) based operating system called WhizzOS), and other utility library routines or demo application.
+Most (if not all) of the software that runs on the Whizz80 computer will have to be written from scratch. This software includes a [ROM monitor](https://en.wikipedia.org/wiki/Machine_code_monitor), some form of operating system (I'm planning a [forth](https://en.wikipedia.org/wiki/Forth_(programming_language)) based operating system called WhizzOS), and other utility library routines or demo application.
 
 All software designed for the Whizz80 is intended to be open source and freely available under the [MIT license](https://en.wikipedia.org/wiki/MIT_License).
